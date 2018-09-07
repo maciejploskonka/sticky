@@ -13,6 +13,6 @@ To do app. Write your note and place it on board!
 
 ## Code/Live
 
-- [Live](https://plaski.github.io/sticky/build)
+- [Live](https://maciejploskonka.github.io/sticky/dist)
 
-- [Code](https://github.com/plaski/sticky)
+- [Code](https://github.com/maciejploskonka/sticky)
