@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "hoek": "^5.0.4",
+    "macaddress": "^0.2.9",
     "url-parse": "^1.4.3"
   }
 }
